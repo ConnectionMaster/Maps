@@ -31,7 +31,9 @@ The following is a list of open-source projects that extend the capabilities of 
 
 | Project Name | Description |
 |-|-|
+| [Azure Maps Cesium plugin](https://github.com/azure-samples/azure-maps-cesium) | A [Cesium JS](https://cesium.com/cesiumjs/) plugin that makes it easy to integrate Azure Maps services such as [tile layers](https://docs.microsoft.com/rest/api/maps/renderv2/getmaptilepreview) and [geocoding services](https://docs.microsoft.com/en-us/rest/api/maps/search). |
 | [Azure Maps Leaflet plugin](https://github.com/azure-samples/azure-maps-leaflet) | A [leaflet](https://leafletjs.com/) JavaScript plugin that makes it easy to overlay tile layers from the [Azure Maps tile services](https://docs.microsoft.com/rest/api/maps/renderv2/getmaptilepreview). |
+| [Azure Maps OpenLayers plugin](https://github.com/azure-samples/azure-maps-openlayers) | A [OpenLayers](https://www.openlayers.org/) JavaScript plugin that makes it easy to overlay tile layers from the [Azure Maps tile services](https://docs.microsoft.com/rest/api/maps/renderv2/getmaptilepreview). |
 
 ### Azure Maps Creator
 
@@ -134,7 +136,7 @@ These are open-source, community-driven initiatives, some of which the Azure Map
 | [AzMapOps](https://github.com/jonsatchwell/AzMapOps) | Powershell module for working with the Azure Maps API. |
 | [Azure Maps GeoJSON Admin Portal](https://github.com/richorama/azure-maps-admin-portal) | A portal for managing GeoJSON data with the Azure Maps Data Services. |
 | [azure-maps-h3](https://github.com/Azure-Samples/azure-maps-h3) | Azure Maps sample for creating H3 Mapbox layers using the Mapbox instance in Azure Maps. |
-| [Azure Maps .NET REST Client](https://github.com/perfahlen/AzureMapsRestServices) | .Net Standard 2.0 library to access AzureMaps Services |
+| [Azure Maps .NET REST Client](https://github.com/perfahlen/AzureMapsRestServices) | .NET 5 library to access Azure Maps REST Services |
 | [PHP Azure Maps Provider](https://github.com/max-langerman/azure-maps-provider) | A PHP Azure Maps Geocoder Provider. | 
 
 ### React
